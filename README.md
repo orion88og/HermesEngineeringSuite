@@ -1,2 +1,3 @@
-# HermesEngineeringSuite
-self-hosted engineering operating system for engineers, makers, inventors, and product developers.
+# Hermes Engineering Suite
+
+PR-001 Repository Bootstrap
