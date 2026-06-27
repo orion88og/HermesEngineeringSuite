@@ -1,0 +1,13 @@
+# Package 0A – Executive & Governance
+
+This package establishes the long-term vision and governance of HES.
+
+Read in order:
+1. PROJECT_CHARTER
+2. NORTH_STAR
+3. PRODUCT_PHILOSOPHY
+4. SUCCESS_CRITERIA
+5. ENGINEERING_PRINCIPLES
+6. ENGINEERING_PLAYBOOK
+7. DEVELOPMENT_WORKFLOW
+8. GOVERNANCE_MODEL
