@@ -1,4 +1,6 @@
 # Changelog
 
-## Commit 0001
-- Repository governance established.
+## Commit 0002
+- Migrated engineering manual into permanent structure.
+- Established permanent module layout.
+- Completed Foundation milestone.
