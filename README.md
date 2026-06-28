@@ -1,3 +1,3 @@
 # Hermes Engineering Suite
 
-PR-001 Repository Bootstrap
+work in progress,not functioning yet
