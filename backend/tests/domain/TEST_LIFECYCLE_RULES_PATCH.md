@@ -1,0 +1,1 @@
+Add tests for valid transitions and invalid transitions raising ValueError.
