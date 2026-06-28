@@ -1,3 +1,29 @@
 [project]
-name="hes-backend"
-version="0.1.0"
+name = "hes-backend"
+version = "0.1.0"
+description = "Hermes Engineering Suite Backend"
+requires-python = ">=3.11"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "pytest>=8.2",
+    "ruff>=0.6",
+    "mypy>=1.11",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["hes_backend"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.mypy]
+python_version = "3.11"
+files = ["hes_backend"]
+strict = false
+warn_unused_configs = true
