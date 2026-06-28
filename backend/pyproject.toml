@@ -23,6 +23,7 @@ packages = ["hes_backend"]
 testpaths = ["tests"]
 
 [tool.mypy]
+explicit_package_bases = true
 python_version = "3.11"
 files = ["hes_backend"]
 strict = false
